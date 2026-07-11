@@ -1,5 +1,5 @@
 /*
-Loop methods for data
+Loop methods for data-base
 
 const students = [
     {name:"Ali", marks:85},

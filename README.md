@@ -466,7 +466,7 @@ subject to the conditions above and this notice.
 ## 💝 Acknowledgments
 
 - Poppins Font by [Google Fonts](https://fonts.google.com)
-- Cart Icon from [Chatgpt]((https://chatgpt.com)
+- Cart Icon from [Chatgpt](https://chatgpt.com)
 - Inspiration from modern e-commerce platforms
 
 ---

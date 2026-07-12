@@ -458,9 +458,8 @@ subject to the conditions above and this notice.
 ## 👨‍💻 Author
 
 **Mohammad**
-- GitHub: [@yourprofile](https://github.com/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [Mohammad Wasayullah](https://github.com/Wasayullah)
+- Email: wasayullahmohammad@gmail.com
 
 ---
 
@@ -534,10 +533,6 @@ This project is great for learning:
 - ✅ State Management (Simple)
 - ✅ CSS Animations
 
----
-## Author
-This project is made and accomplished by [Mohammad Wasayullah](https://github.com/Wasayullah)
-**Last Updated:** July 2026
 
 **Repository:** [add-to-cart](https://github.com/Wasayullah/Add-to-cart)
 

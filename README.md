@@ -106,7 +106,7 @@ add-to-cart/
 
 ### Method 2: Git Clone
 ```bash
-git clone https://github.com/yourusername/add-to-cart.git
+git clone https://github.com/Wasayullah/Add-to-cart.git
 cd add-to-cart
 ```
 

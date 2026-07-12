@@ -535,10 +535,14 @@ This project is great for learning:
 - ✅ CSS Animations
 
 ---
-
+## Author
+This project is made and accomplished by [Mohammad Wasayullah](https://github.com/Wasayullah)
 **Last Updated:** July 2026
 
-**Repository:** [add-to-cart](https://github.com/Wasayullah/Add-To-Cart)
+**Repository:** [add-to-cart](https://github.com/Wasayullah/Add-to-cart)
+
+
+
 
 
 
